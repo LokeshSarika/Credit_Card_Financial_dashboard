@@ -69,7 +69,7 @@ Previous_week_Reveneue =
 
 <h2>Project Insights </h2>
 
-Revenue increased by 28.8% in Week 53(31st Dec)
+Witnessed a remarkable 28.8% increase in revenue week-over-week, signaling robust performance.
 
 Overall revenue is 57M
 
